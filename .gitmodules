@@ -2,3 +2,7 @@
 	path = drupal
 	url = git://git.drupal.org/project/drupal.git
 	branch = 7.x
+[submodule "themes/zurb_foundation"]
+	path = themes/zurb_foundation
+	url = https://github.com/off-koss/zurb_foundation.git
+	branch = zf_update_5_5_3
